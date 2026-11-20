@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://memonhafeez313-blip.github.io/hafeez-website/sitemap.xml
